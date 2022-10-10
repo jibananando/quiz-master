@@ -1,0 +1,10 @@
+.topic {
+    background-color: lightblue;
+    border: 2px solid blue;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.topic img {
+    height: 250px;
+}
