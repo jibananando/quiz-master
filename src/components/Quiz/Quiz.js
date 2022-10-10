@@ -9,7 +9,7 @@ const Quiz = ({ dataTopic }) => {
             <img src={logo}></img>
             <h2>{name}</h2>
             <p>{total}</p>
-            <button>Start</button>
+            <button>Start Practice</button>
         </div>
     );
 };

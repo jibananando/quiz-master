@@ -1,0 +1,14 @@
+.nav-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: lightblue;
+    height: 60px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.rout-container a {
+    margin-right: 50px;
+    text-decoration: none;
+}
