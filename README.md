@@ -74,7 +74,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 Quiz master for assignment 09
  
  <!-- Live website: -->
- Link:
+ Link: https://silly-nasturtium-881068.netlify.app/
 
  <!-- Project Detail -->
  1. created a navbar with few route and Project name
