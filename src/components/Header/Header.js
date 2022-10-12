@@ -7,7 +7,7 @@ const Header = () => {
             <div>
                 <h2>Quiz Master</h2>
             </div>
-            <div className='rout-container'>
+            <div className='route-container'>
                 <Link to='/'>Home</Link>
                 <Link to='/statistics'>Statistics</Link>
                 <Link to='blog'>Blog</Link>

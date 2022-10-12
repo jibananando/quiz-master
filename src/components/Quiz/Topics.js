@@ -1,7 +1,8 @@
 import React from 'react';
-import './Quiz.css'
+import { Link } from 'react-router-dom';
+import './Topics.css'
 
-const Quiz = ({ dataTopic }) => {
+const Topics = ({ dataTopic }) => {
     const { id, name, logo, total } = dataTopic;
 
     return (
@@ -9,9 +10,11 @@ const Quiz = ({ dataTopic }) => {
             <img src={logo}></img>
             <h2>{name}</h2>
             <p>{total}</p>
-            <button>Start Practice</button>
+            <button>
+                <Link to={`/quizpage/${id}`}>Start Practice</Link>
+            </button>
         </div>
     );
 };
 
-export default Quiz;
+export default Topics;
