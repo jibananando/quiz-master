@@ -68,3 +68,20 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+<!-- Project Name -->
+Quiz master for assignment 09
+ 
+ <!-- Live website: -->
+ Link:
+
+ <!-- Project Detail -->
+ 1. created a navbar with few route and Project name
+ 2. created a Headear part with img and meaningful heading
+ 3. data load from url and fetch and showed ui
+ 4. created a 404 rout for bonous mark
+ 5. Blog page and 3 quesinon and ans
+ 6. created statistics page  for rechart
+ 7. used bootstrap 
+ 8. github commit added 
