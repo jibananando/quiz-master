@@ -9,7 +9,7 @@ const Topics = ({ dataTopic }) => {
         <div className='topic'>
             <img src={logo}></img>
             <h2>{name}</h2>
-            <p>{total}</p>
+            <p>Total Question: {total}</p>
             <button>
                 <Link to={`/quizpage/${id}`}>Start Practice</Link>
             </button>
